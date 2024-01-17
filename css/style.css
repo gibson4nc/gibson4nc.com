@@ -63,6 +63,8 @@ head {
   text-decoration: none;
   font-size: 17px;
   display: block;
+  background-color: #800080;
+  font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
 }
 
 /* Style the hamburger menu */

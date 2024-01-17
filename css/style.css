@@ -75,7 +75,7 @@ head {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: black;
+  background: #8EED8E;
   display: block;
   position: absolute;
   right: 0;
@@ -90,6 +90,6 @@ head {
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #8EED8E;
+  background-color: #800080;
   color: white;
 } 

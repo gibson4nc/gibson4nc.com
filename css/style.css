@@ -53,6 +53,7 @@ head {
 .topnav {
   overflow: hidden;
   background-color: #8EED8E;
+  color: black;
   position: relative;
   font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
 }

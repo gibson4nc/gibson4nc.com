@@ -75,6 +75,7 @@ head {
 
 /* Style the hamburger menu */
 .topnav a.icon {
+  color: black;
   background: #8EED8E;
   display: block;
   position: absolute;

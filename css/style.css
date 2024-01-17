@@ -3,6 +3,11 @@ body {
     background-color: #800080;
 }
 
+/*Set Body Parameters */
+head {
+    background-color: #800080;
+}
+
 /* Style the navigation menu */
 .topnav {
   overflow: hidden;

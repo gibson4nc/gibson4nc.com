@@ -1,4 +1,7 @@
-/* */
+/*Set Body Parameters */
+body {
+    background-color: #800080;
+}
 
 /* Style the navigation menu */
 .topnav {

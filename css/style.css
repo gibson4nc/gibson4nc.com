@@ -47,6 +47,7 @@ head {
   overflow: hidden;
   background-color: #8EED8E;
   position: relative;
+  font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
 }
 
 /* Hide the links inside the navigation menu (except for logo/home) */

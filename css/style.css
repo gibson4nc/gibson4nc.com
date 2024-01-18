@@ -51,6 +51,13 @@ head {
   margin: auto;
 }
 
+/*Set Image Parameters for rounded images */
+div.center {
+  margin: auto;
+  justify-content: center;
+  width: 80%;  
+}
+
 /* Set div Parameters for a shadow box */
 div.shadowbox {
   margin: auto;

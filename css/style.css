@@ -48,13 +48,14 @@ head {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
   max-width: 100%;
   height: auto;
+  margin: auto;
 }
 
 /* Set div Parameters for a shadow box */
 div.shadowbox {
   width: 80%;
   border: 1px solid;
-  ustify-content: center;
+  text-align: center;
   background-color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-bottom: 25px;
